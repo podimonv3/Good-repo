@@ -74,13 +74,13 @@ async def start(client, message):
         buttons = [
             [
                 InlineKeyboardButton(
-                    "🔗 ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ʟɪɴᴋs 🔗", url=f"https://t.me/CMV_Links"
+                    "🔗 ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ʟɪɴᴋs 🔗", url=f"https://t.me/UrvashiTheaters_Main"
                 )
             ],
             [
-                InlineKeyboardButton("📌 ᴍʏ ɢʀᴏᴜᴘ", url="https://t.me/CM_Villa"),
+                InlineKeyboardButton("📌 ᴍʏ ɢʀᴏᴜᴘ", url="https://t.me/+JQeou0PAx_Y0ZGFl"),
                 InlineKeyboardButton(
-                    "⚒️ ᴍʏ ᴏᴡɴᴇʀ", url="https://t.me/kuruthamkettavan"
+                    "⚒️ ᴍʏ ᴏᴡɴᴇʀ", url="https://t.me/Akhilkrishnan121"
                 ),
             ],
             [
@@ -120,13 +120,13 @@ async def start(client, message):
         buttons = [
             [
                 InlineKeyboardButton(
-                    "🔗 ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ʟɪɴᴋs 🔗", url=f"https://t.me/CMV_Links"
+                    "🔗 ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ʟɪɴᴋs 🔗", url=f"https://t.me/UrvashiTheaters_Main"
                 )
             ],
             [
-                InlineKeyboardButton("📌 ᴍʏ ɢʀᴏᴜᴘ", url="https://t.me/CM_Villa"),
+                InlineKeyboardButton("📌 ᴍʏ ɢʀᴏᴜᴘ", url="https://t.me/+JQeou0PAx_Y0ZGFl"),
                 InlineKeyboardButton(
-                    "⚒️ ᴍʏ ᴏᴡɴᴇʀ", url="https://t.me/kuruthamkettavan"
+                    "⚒️ ᴍʏ ᴏᴡɴᴇʀ", url="https://t.me/Akhilkrishnan121"
                 ),
             ],
             [
